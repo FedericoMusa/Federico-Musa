@@ -12,6 +12,7 @@ Recently, I led an initiative to standardize the onboarding process for **PyModb
 - **Value Added:** Clarified the "editable" installation process, improved internal navigation, and standardized error messaging for new contributors.
 - **Process:** Worked closely with maintainers through multiple review cycles to ensure professional standards and technical accuracy.
 - **[View the full discussion and merge here](https://github.com/pymodbus-dev/pymodbus/pull/2851)**
+#### 🚀 Key Contribution: [PyModbus PR #2849](https://github.com/pymodbus-dev/pymodbus/pull/2873#event-22683831889)
 
 #### 🛠️ Professional Profile
 - **Industry Context:** Implementing Python-based solutions in the **Oil & Gas** sector.
