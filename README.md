@@ -2,17 +2,17 @@
 # Hi, I'm Federico 👋
 
 ### Python Solutions | Oil & Gas Industry | Open Source Contributor
-
+Recently, I led an initiative to standardize the onboarding process for **PyModbus**, one of the most popular Python libraries for industrial protocols.
 I bridge the gap between industrial field operations and professional software practices. I'm focused on making complex technical tools accessible through better documentation and onboarding experiences.
 
 #### 🚀 Key Contribution: [PyModbus PR #2851](https://github.com/pymodbus-dev/pymodbus/pull/2851)
-Recently, I led an initiative to standardize the onboarding process for **PyModbus**, one of the most popular Python libraries for industrial protocols.
 
 - **Outcome:** Successfully merged a comprehensive update to the README and troubleshooting guide.
 - **Value Added:** Clarified the "editable" installation process, improved internal navigation, and standardized error messaging for new contributors.
 - **Process:** Worked closely with maintainers through multiple review cycles to ensure professional standards and technical accuracy.
-- **[View the full discussion and merge herehttps://github.com/pymodbus-dev/pymodbus/pull/2851)**
-### 🚀 Key Contribution: PyModbus PR #2873 - Simulator Entry Point & DX Optimization
+
+🚀 **Key Contribution:[PyModbus PR #2873](https://github.com/pymodbus-dev/pymodbus/pull/2873)
+- Simulator Entry Point & DX Optimization**
 Standardized the official entry point documentation for the persistent simulator experience.
 - Gap Detection: Identified and addressed a critical documentation void regarding persistent server instances for manual testing.
 - Source Investigation: While updating docs, identified a "silent start" behavior where the simulator defaulted to internal configurations without user awareness, triggering a secondary architectural "armouring" initiative.
