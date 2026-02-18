@@ -19,7 +19,7 @@ Standardized the official entry point documentation for the persistent simulator
 - Outcome: Merged a comprehensive update to the README.rst, including detailed parameter tables for CLI usage and standardized setup instructions.
 - Strategic Alignment: Worked directly with core maintainers to transition the simulator from an ephemeral example to a robust, documented user tool.
 
-🚀 **Key Contribution: [PyModbus PR #2877](https://github.com/pymodbus-dev/pymodbus/pull/2873#event-22683831889)
+🚀 **Key Contribution: [PyModbus PR #2877](https://github.com/pymodbus-dev/pymodbus/pull/2877#event-22801210158)
 Successfully merged a critical architectural fix to the Modbus Simulator and restored 100% test coverage.
 - Outcome: Implemented "Entry Point Armouring" by enforcing atomic configuration file validation at the simulator's start, preventing fatal server crashes and inconsistent states.
 - Value Added: Eliminated "Double Logging" bugs and improved terminal DX by ensuring clean, professional error reporting for industrial users.
